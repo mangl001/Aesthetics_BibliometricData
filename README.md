@@ -1,7 +1,7 @@
 # Aesthetics_BibliometricData
 Data used in "What counts as Aesthetics in Science? A Bibliometric Analysis and Visualization of the Scientific Literature from 1970 to 2018".
 
-https://zenodo.org/badge/224454617.svg
+https://doi.org/10.5281/zenodo.3555347
 
 ## Data for analysis 1: Aeshteitcs as a whole
 In this first analysis, we searched all available literature in Web of Science containing the keywords aesthetics or esthetics in either the title, the abstract, or author keywords. We limited the search to only peer-reviewed publications (research articles, reviews, or conference papers), excluding book chapters, editorial notes, and letters. We also excluded literature published in 2019 (the year in which the study was conducted). When available, the data for each publication includes the document’s title, abstract, keywords, author(s), year of publication, journal (with volume, issue, and pages), citation count, document type, DOI, author affiliations, serial identifiers, publisher, editor, language of original document, and correspondence address. The data was retrieved on July 18, 2019. The same dataset was retrieved in "bib" and "text" formats.
