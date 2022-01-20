@@ -1,5 +1,5 @@
 # What counts as aesthetics in science? 
-Repo with supporting datasets.
+Analysis script and datasets for the manuscript published in _Psychology of Aesthetics, Creativity, and the Arts_ - [access paper here](https://doi.org/10.1037/aca0000350). 
 
 ## Citation
 Anglada-Tort, M., & Skov, M. (2020). What counts as aesthetics in science? A bibliometric analysis and visualization of the scientific literature from 1970 to 2018. Psychology of Aesthetics, Creativity, and the Arts. Advance online publication. https://doi.org/10.1037/aca0000350
