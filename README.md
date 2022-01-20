@@ -1,16 +1,20 @@
-# Aesthetics_BibliometricData
-Data used in "What counts as Aesthetics in Science? A Bibliometric Analysis and Visualization of the Scientific Literature from 1970 to 2018".
+# What counts as aesthetics in science? A bibliometric analysis and visualization of the scientific literature from 1970 to 2018
 
+
+## Citation
+Anglada-Tort, M., & Skov, M. (2020). What counts as aesthetics in science? A bibliometric analysis and visualization of the scientific literature from 1970 to 2018. Psychology of Aesthetics, Creativity, and the Arts. Advance online publication. https://doi.org/10.1037/aca0000350
+
+## Dataset
 https://doi.org/10.5281/zenodo.3555589
 
 
-### Data for analysis 1: Aesthetics as a whole
+## Notes analysis 1
 * For the analysis using Vosviewer (Van Eck & Waltman, 2010), we provide a folder with all "text" files downloaded from Web of Science (a total of 27169 publications).
 * For the analysis using the R package Bibliometrix (Aria & Cuccurullo, 2017), we provide a "bib" file with the same publications.
 
-This data was retrieved from Web of Science on July 18, 2019.
+This data was retrieved from Web of Science on July 18, 2019 (see publication for more details).
 
-### Data for analysis 2: Differences between academic research areas
+## Notes analysis 2
 We organised the data according to the six research areas: 
 * Arts & Humanities (A&H), 
 * Life Sciences & Biomedicine (LS&B), 
